@@ -3,6 +3,12 @@
 
 ## Introduction
 
+                     Azure-Honeypot Cyber Range
+![image](https://github.com/user-attachments/assets/c47cdf46-f66f-42a8-b583-34ca0ac18816)
+
+![image](https://github.com/user-attachments/assets/42c33c25-a38a-4243-9b97-873b5b061b12)
+
+
 In this project, I build a mini honeynet in Azure and ingest log sources from various resources into a Log Analytics workspace, which is then used by Microsoft Sentinel to build attack maps, trigger alerts, and create incidents. I measured some security metrics in the insecure environment for 24 hours, apply some security controls to harden the environment, measure metrics for another 24 hours, then show the results below. The metrics we will show are:
 
 - SecurityEvent (Windows Event Logs)
