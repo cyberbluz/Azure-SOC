@@ -43,8 +43,3 @@ In this project, a mini honeynet was constructed in Microsoft Azure and log sour
 
 It is worth noting that if the resources within the network were heavily utilized by regular users, it is likely that more security events and alerts may have been generated within the 24-hour period following the implementation of the security controls.
 ![image](https://github.com/user-attachments/assets/c47cdf46-f66f-42a8-b583-34ca0ac18816)
-
-![image](https://github.com/user-attachments/assets/c95d0e8b-9a3c-4ba7-9527-80bcd3a56861)
-
-
-
