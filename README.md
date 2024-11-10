@@ -46,7 +46,5 @@ It is worth noting that if the resources within the network were heavily utilize
 
 ![image](https://github.com/user-attachments/assets/c95d0e8b-9a3c-4ba7-9527-80bcd3a56861)
 
-![image](https://github.com/user-attachments/assets/b33b0b49-bd36-4172-b57d-db13e2a3f098)
 
-![image](https://github.com/user-attachments/assets/8dc1882a-d6a2-4513-a349-3823c9440a3f)
 
