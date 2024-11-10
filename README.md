@@ -1,5 +1,4 @@
 # Building a SOC + Honeynet in Azure (Live Traffic)
-
 ![image](https://github.com/user-attachments/assets/6990dc73-690b-449e-aafc-f93847ab41bf)
 
 
@@ -42,43 +41,21 @@ For the "BEFORE" metrics, all resources were originally deployed, exposed to the
 
 For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL traffic with the exception of my admin workstation, and all other resources were protected by their built-in firewalls as well as Private Endpoint
 
+## Metrics Before Hardening / Security Controls
+
+![image](https://github.com/user-attachments/assets/9cd4666c-0f88-484c-9167-186613a2a9ae)
+
 ## Attack Maps Before Hardening / Security Controls
 ![image](https://github.com/user-attachments/assets/ff9363cc-d4ae-425a-97f7-4cd9aa861cc1)
 ![image](https://github.com/user-attachments/assets/734bc45f-ee56-432d-9533-d661afd17e30)
 ![image](https://github.com/user-attachments/assets/09ff8c60-71da-44de-b119-c7af63b60313)
 
-
-## Metrics Before Hardening / Security Controls
-
-The following table shows the metrics we measured in our insecure environment for 24 hours:
-Start Time 2023-03-15 17:04:29
-Stop Time 2023-03-16 17:04:29
-
-| Metric                   | Count
-| ------------------------ | -----
-| SecurityEvent            | 19470
-| Syslog                   | 3028
-| SecurityAlert            | 10
-| SecurityIncident         | 348
-| AzureNetworkAnalytics_CL | 843
-
-## Attack Maps Before Hardening / Security Controls
-
-```All map queries actually returned no results due to no instances of malicious activity for the 24 hour period after hardening.```
-
 ## Metrics After Hardening / Security Controls
 
-The following table shows the metrics we measured in our environment for another 24 hours, but after we have applied security controls:
-Start Time 2023-03-18 15:37
-Stop Time	2023-03-19 15:37
+![image](https://github.com/user-attachments/assets/e85907eb-3bd5-4f75-8dbf-bc6ad326868e)
 
-| Metric                   | Count
-| ------------------------ | -----
-| SecurityEvent            | 8778
-| Syslog                   | 25
-| SecurityAlert            | 0
-| SecurityIncident         | 0
-| AzureNetworkAnalytics_CL | 0
+![image](https://github.com/user-attachments/assets/b2aacb16-ffaa-44ee-b371-8903aa8f4b62)
+
 
 ## Conclusion
 
