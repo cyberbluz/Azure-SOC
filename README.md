@@ -50,8 +50,3 @@ It is worth noting that if the resources within the network were heavily utilize
 
 ![image](https://github.com/user-attachments/assets/8dc1882a-d6a2-4513-a349-3823c9440a3f)
 
-## Architecture Before Hardening / Security Controls
-![Architecture Diagram](https://i.imgur.com/aBDwnKb.jpg)
-
-## Architecture After Hardening / Security Controls
-![Architecture Diagram](https://i.imgur.com/YQNa9Pp.jpg)
