@@ -21,6 +21,6 @@
 
 
 ## In the Next phase of the project, I will open the Network to potentially malicious traffic by opening all Ports of the NSGs to the Internet.
-# https://github.com/cyberbluz/Open_Ports
+# [Open all Ports](https://github.com/cyberbluz/Open_Ports)
 --------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------
